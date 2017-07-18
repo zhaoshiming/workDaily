@@ -62,3 +62,25 @@ Js part contains:  controllers and recapp( start js ) and routeapp , directives�
 	Angular2的组件化开发，main.js为入口文件，会设置初始化是一个组件，这个组件其实可以作为根部组件，在这个组件里，嵌套其他的组件。
 	所以的组件都需要在app.module.ts里面进行注册。
 	组件里面会通过导入component ，把当前页面全部的资源引入，在父组件向子组件传值的时候，子组件里面的属性需要设置为@input 
+	
+18日待完成工作
+	完成angular2教程的剩余部分 service route http 
+	完成git版本整理
+	完成js权威指南第五章
+	完成angularjs教程阅读
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
