@@ -83,6 +83,14 @@ Js part contains:  controllers and recapp( start js ) and routeapp , directives�
 	完成js权威指南第五章
 	完成angularjs教程阅读
 
+19日完成任务
+	已完成 git整理
+
+20日待完成任务
+	完成angular2教程的剩余部分 service route http 
+	完成webpack整理
+	完成js权威指南第五章
+	完成angularjs教程阅读
 
 
 
