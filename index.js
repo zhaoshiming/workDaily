@@ -93,7 +93,9 @@ Js part contains:  controllers and recapp( start js ) and routeapp , directives�
 	完成angularjs教程阅读
 
 
-
+26 日完成任务
+	js权威指南已经到第7章函数部分
+	开始阅读js异步编程部分
 
 
 
